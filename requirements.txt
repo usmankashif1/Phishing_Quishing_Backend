@@ -1,0 +1,5 @@
+fastapi==0.143.5
+jellyfish==1.3.0
+pydantic==2.14.1
+requests==2.34.2
+uvicorn==0.54.0

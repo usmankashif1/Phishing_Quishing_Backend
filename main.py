@@ -50,7 +50,7 @@ HIGH_RISK_BRANDS = (
     "dropbox",
     "adobe",
     "coinbase",
-    "twitter",
+    "twitter"
 )
 
 _LEETSPEAK_TRANSLATION = str.maketrans(
